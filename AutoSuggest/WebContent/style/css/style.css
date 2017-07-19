@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+html, body { height:100%; }
+#auto_wrap { margin: 0 auto; width:670px; padding:100px 0; position: relative }
+h1 { visibility: hidden; }
+.namoosori_logo { width:280px; height:auto; margin: 0 auto; display:block; margin-top:200px; }
+.search_box { border:1px solid #b9b9b9; margin-top:50px; }
+.form_text { width:620px; font-size:16px; display:inline-block; margin:0 auto; padding:10px 15px; border:none; }
+.img_button{ width:37px; height:37px; background:url("../image/search-icon.png") no-repeat 0 0; border:none; display:inline-block; margin:0 auto; cursor: pointer; vertical-align:bottom; }
+.auto_complete_list { width:670px; height:auto; position: absolute; left: 0; box-shadow: 0 2px 6px #999; border:1px solid #b9b9b9; }
+.auto_complete_list ul li {  text-align: left; font-size:16px; padding:5px 5px 5px 15px; }
+.auto_complete_list ul li:hover { background:#eee; }
