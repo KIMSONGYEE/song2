@@ -1,0 +1,23 @@
+div {
+	width :180px;
+}
+
+#menuContainer {
+	display :block;
+	background-color :#727272;
+	color :#FFFFFF;
+}
+
+div.seperator {
+	height :5px;
+}
+
+div.menuActive {
+	background-color :#4C4C4C;
+}
+
+#menuBox {
+	background-image: url("../image/select01.gif");
+	cursor :pointer;
+	color :#FFFFFF;
+}
