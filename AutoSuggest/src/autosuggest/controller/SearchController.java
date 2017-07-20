@@ -21,6 +21,8 @@ public class SearchController {
 	public List<SearchWord> search(String keyword){
 		List<SearchWord> words = servivce.findWord(keyword);
 		
+		System.out.println(keyword);
+		
 		return words;
 	}
 	
