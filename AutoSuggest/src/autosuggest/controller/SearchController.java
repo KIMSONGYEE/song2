@@ -22,6 +22,7 @@ public class SearchController {
 		List<SearchWord> words = servivce.findWord(keyword);
 		
 		System.out.println(keyword);
+		System.out.println("branch test");
 		
 		return words;
 	}
