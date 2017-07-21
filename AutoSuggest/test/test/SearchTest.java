@@ -19,5 +19,6 @@ public class SearchTest {
 		for (SearchWord searchWord : words) {
 			System.out.println(searchWord.getWord());
 		}
+		System.out.println("master");
 	}
 }
