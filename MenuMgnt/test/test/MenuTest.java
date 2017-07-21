@@ -25,6 +25,7 @@ public class MenuTest {
 		
 		System.out.println("master");
 		System.out.println("branch");
+		
 	}
 	
 	@Test
