@@ -20,5 +20,6 @@ public class SearchTest {
 			System.out.println(searchWord.getWord());
 		}
 		System.out.println("master");
+		System.out.println("branch");
 	}
 }
