@@ -24,6 +24,7 @@ public class MenuTest {
 		assertEquals(1, check);
 		
 		System.out.println("master");
+		System.out.println("branch");
 	}
 	
 	@Test
