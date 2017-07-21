@@ -22,6 +22,8 @@ public class MenuTest {
 		int check = store.menuCreate(menu);
 		System.out.println(check);
 		assertEquals(1, check);
+		
+		System.out.println("master");
 	}
 	
 	@Test
